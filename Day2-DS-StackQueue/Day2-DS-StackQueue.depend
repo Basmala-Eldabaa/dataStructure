@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1732711552 source:f:\assignmentsiti\datastruct\day2-ds-stackqueue\day2-ds-stackqueue\day2-ds-stackqueue\main.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+
+1732710191 f:\assignmentsiti\datastruct\day2-ds-stackqueue\day2-ds-stackqueue\day2-ds-stackqueue\include\stack.h
+	"Node.h"
+
+1732706652 f:\assignmentsiti\datastruct\day2-ds-stackqueue\day2-ds-stackqueue\day2-ds-stackqueue\include\node.h
+
+1732712372 f:\assignmentsiti\datastruct\day2-ds-stackqueue\day2-ds-stackqueue\day2-ds-stackqueue\include\queue.h
+
