@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732799797 source:f:\assignmentsiti\datastruct\day3-ds-algorithm\day3-ds-algorithm\day3-ds-algorithm\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1732800026 f:\assignmentsiti\datastruct\day3-ds-algorithm\day3-ds-algorithm\day3-ds-algorithm\include\linkedlist.h
+	"Node.h"
+
+1732799444 f:\assignmentsiti\datastruct\day3-ds-algorithm\day3-ds-algorithm\day3-ds-algorithm\include\node.h
+
