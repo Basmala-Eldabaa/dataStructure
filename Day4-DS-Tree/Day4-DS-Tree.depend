@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1733433575 source:f:\assignmentsiti\datastruct\day4-ds-tree\day4-ds-tree\main.cpp
+	<iostream>
+	"Tree.h"
+
+1733433829 f:\assignmentsiti\datastruct\day4-ds-tree\day4-ds-tree\include\tree.h
+	"Node.h"
+
+1733432217 f:\assignmentsiti\datastruct\day4-ds-tree\day4-ds-tree\include\node.h
+
